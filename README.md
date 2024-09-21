@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I am Majd 👋
+- I am a BSc student in Computer Science at the University of Haifa, currently in my final year of studies.
+## 📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/majd-farah-7b4606230)
 
 <!--
 **MajdF/MajdF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

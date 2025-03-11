@@ -1,6 +1,6 @@
 ## Hi there, I am Majd 👋
 - BSc student in **Computer Science** at the **University of Haifa**, currently in my final year of studies.
-- Currently gaining experience in **Python**, focusing on Image Processing, Machine Learning, and more.
+- Currently gaining experience in **Python**, focusing on Computer Vision, Machine Learning, ,Deep Learning and more.
 ## 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/majd-farah-7b4606230)
 
